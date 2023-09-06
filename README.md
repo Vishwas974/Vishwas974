@@ -1,6 +1,7 @@
 ### Hi there Im Vishwas S👋
 
-Currently a Final Year Btech student majoring in ECE from PES University. Passionate about Analog Design,LowPowerVLSI
+Currently a Final Year Btech student majoring in ECE from PES University. 
+Passionate about Analog Design,LowPowerVLSI
 
 
 - 🔭 I’m currently working on Analog Circuit Design.
